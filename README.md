@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JiEun Lim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simi0021&label=Profile%20views&color=ffbb00&style=flat" alt="simi0021" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/UC7crR3pfBWdl3UxFRq13r9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://url.kr/65fhz2" height="30" width="40" /></a>
 <a href="https://discord.gg/초코파이#2187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="초코파이#2187" height="30" width="40" /></a>
