@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JiEun Lim, a game developer who pursues fun.</h1>
+<h1 align="center">Hi 👋, I'm JiEun Lim, a game developer who pursues fun.😊</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simi0021&label=Profile%20views&color=ffbb00&style=flat" alt="simi0021" /> </p>
 
 <h3 align="left">About me:</h3>
