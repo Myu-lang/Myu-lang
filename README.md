@@ -4,9 +4,9 @@
 
 <h3 align="center">About me</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC7crR3pfBWdl3UxFRq13r9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@myu-lang" height="40" width="40" /></a>
-  <a href="https://myu-lang.tistory.com/" target="blank"><img align="center" src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" alt="온묵의 노트" height="30" width="80" /></a>
-  <a href="https://discord.gg/초코파이#2187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#초코파이#2187" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC7crR3pfBWdl3UxFRq13r9w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@myu-lang" height="40" width="40" /></a>
+  <a href="https://myu-lang.tistory.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" alt="온묵의 노트" height="30" width="80" /></a>
+  <a href="https://discord.gg/초코파이#2187" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#초코파이#2187" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
